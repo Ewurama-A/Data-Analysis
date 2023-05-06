@@ -1,2 +1,2 @@
-# Data-Analysis, Processing, Manipulation
-This repository is to showcase Data analysis skills. Here Pandas, Siuba, SQL and other dataFrames are used to clean, manipulate and analyze data to draw conclusions, prepare the data for visualization or prepare the data for machine learning. 
+# Data-Analysis, Processing, Manipulation and Statisitcal Inferences
+This repository is to showcase Data analysis skills. Here Pandas, Siuba, SQL and other dataFrames are used to clean, manipulate and analyze data using statiscal tools (Numpy, Scipy and Matplotlib) and graphing tools(Seaborn,others), to draw conclusions and prepare the data for visualization or prepare the data for machine learning. 
